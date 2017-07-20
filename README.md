@@ -1,5 +1,4 @@
 # SMS (STUDENT MANAGEMENT SYSTEM)
-Forked from vishalkumargourav
 Student management system(Spring MVC based project)
 
 Spring backend , CSS and html front end, mysql for database management
